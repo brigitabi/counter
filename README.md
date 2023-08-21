@@ -2,8 +2,13 @@
 
 This is a simple web-based counter application built using HTML, CSS, and JavaScript. The application allows users to increment, decrement, and reset a counter value, displayed on the screen.
 
+Counter Zero
 ![Counter Zero](public/zero.png)
+
+Counter Four
 ![Counter Four](public/four.png)
+
+Counter Minus Fourteen
 ![Counter Minus Fourteen](public/fourteen.png)
 
 ### Prerequisites
@@ -28,3 +33,5 @@ To run this application, you need a web browser that supports HTML5, CSS3, and J
 2. Click the "Increment" button to increase the counter value by 1.
 3. Click the "Decrement" button to decrease the counter value by 1.
 4. Click the "Reset" button to set the counter value back to 0.
+
+Happy Coding! 🚀
